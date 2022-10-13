@@ -1,0 +1,39 @@
+nav {
+  margin-bottom: 30px;
+}
+#list-movie {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  text-align: center;
+  margin: 30px;
+  pad: 30px;
+}
+#list-search {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.card {
+  margin: 30px 0px;
+}
+h3 {
+  background-color: black;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.card:hover {
+  box-shadow: 10px 10px;
+}
+
+span {
+  color: darkcyan;
+}
